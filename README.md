@@ -2,7 +2,7 @@
 <h1 aling="center">Projeto VoeAirlines</h1>
 
 <h4>PMA</h4>
-<p> Progrma de Manutenção de Aeronaves</p
+<p> Programa de Manutenção de Aeronaves</p
 
 <ul>
 
